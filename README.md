@@ -23,6 +23,15 @@ To run this app:
 
 The app requires permissions for camera access, media library access, and location access. These permissions are requested when the app is first launched.
 
+## User Stories
+
+- **As a user, I want to view a live camera feed so that I can see what the camera sees in real-time.**
+- **As a user, I want to be able to toggle the camera view between front and back so that I can choose the camera perspective.**
+- **As a user, I want to take a picture with a single tap so that I can capture images quickly and easily.**
+- **As a user, I want the pictures I take to be saved to my camera roll so that I can access them later.**
+- **As a user, I want to be asked for permission before the app accesses my camera and location so that I can control my privacy settings.**
+- **As a user, I expect to be notified if there's an error, such as when permissions are not granted, so that I understand why the app isn't working as expected.**
+
 ## Code Snippet
 
 Below is the main application code:
