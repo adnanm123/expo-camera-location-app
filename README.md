@@ -59,17 +59,9 @@ const styles = StyleSheet.create({
 });
 ```
 
-### Front Facing image
+### QR Code
 
-![Front-Facing Image](assets/front-facing.JPG)
-
-### Back-Facing Image
-
-![Back-Facing Image](assets/back-facing.JPG)
-
-### Save Image
-
-![Saves Image](assets/saves-image.PNG)
+![QR Code](assets/QR-code.png)
 
 ### UML
 
