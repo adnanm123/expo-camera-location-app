@@ -2,26 +2,33 @@
 
 ## Overview
 
-This is a React Native app built with Expo that utilizes native device features. It allows the user to take pictures using the front or back camera and save them to the camera roll. The app also requests the user's location, although this feature is not actively used in the current implementation.
+This React Native app, built with Expo, features a user-friendly camera application that utilizes native device features. It enables users to take pictures using the front or back camera and save them to the camera roll. The app also handles location permissions, although this feature isn't actively used in the current implementation.
 
-## Features
+## Milestone 2: Polish and Delivery
 
-- Live camera preview
-- Toggle between front and back cameras
-- Capture and save images to the camera roll
-- Request location permissions
+### Enhanced User Experience
+
+- **Quality Styling**: Utilizing CSS-in-JS, the app boasts a polished and responsive design that enhances user interaction.
+- **Accessibility Focus**: Emphasizes right-sized tap targets and high-contrast elements for inclusive usability.
+- **Dark and Light Modes**: Supports both modes, catering to user preferences and different lighting conditions.
+
+### Core Features
+
+- Live camera preview with front and back camera toggling.
+- Capability to capture and save images to the camera roll.
+- Location permission requests (currently not actively used).
 
 ## Setup
 
 To run this app:
 
 1. Clone the repository.
-2. Install the dependencies using `npm install`.
+2. Install dependencies using `npm install`.
 3. Start the app with `expo start`.
 
 ## Permissions
 
-The app requires permissions for camera access, media library access, and location access. These permissions are requested when the app is first launched.
+Requires permissions for camera access, media library access, and location access, requested on first launch.
 
 ## User Stories
 
